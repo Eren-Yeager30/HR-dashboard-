@@ -58,3 +58,4 @@ Attrition By Years in Company: Reveals a critical point of departure for employe
 Attrition By Education: Highlights that employees with a Life Sciences education account for the highest percentage of attrition (38%).
 
 Viewing the Dashboard:
+https://github.com/Eren-Yeager30/HR-dashboard-/blob/main/Screenshot%202025-11-01%20151949.png
